@@ -1,8 +1,8 @@
 # Headline
 rm(list = ls())
 
-x = rnorm(10)
-y <- rnorm(100)
+x = rnorm(100)
+y <- rnorm(10)
 
 #important feature
 # new feature
